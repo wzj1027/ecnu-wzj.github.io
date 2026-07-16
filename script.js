@@ -91,7 +91,7 @@
 
       "research-pubs": "发表论文",
       "pub-authors":
-        "<strong>吴祝骏</strong>，陈小红，金芝，胡铭，金东明",
+        "<strong>吴祝骏</strong>，陈小红，金芝，胡铭，靳东明",
       "pub-venue":
         "<i>International Conference on Software Engineering (ICSE), 2026</i> — 已录用 (CCF-A)",
 
