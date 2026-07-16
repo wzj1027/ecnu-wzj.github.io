@@ -166,7 +166,7 @@
       {
         year: "2019",
         title:
-          "Awarded National First-Class Athlete (Team Captain of Xingzhi Middle School)",
+          "Awarded National First-Class Athlete",
       },
     ],
     zh: [
@@ -192,7 +192,7 @@
       },
       {
         year: "2019",
-        title: "被授予乒乓球国家一级运动员称号（行知中学校队队长）",
+        title: "被授予乒乓球国家一级运动员称号",
       },
     ],
   };
