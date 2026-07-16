@@ -43,7 +43,7 @@
       "honors-title": "Table Tennis Honors",
       "athlete-badge": "National First-Class Athlete",
       "athlete-career":
-        "National First-Class Athlete, Career: 2009 – Present",
+        "Career: 2009 – Present",
 
       "honor-note":
         "Served as team captain of Xingzhi Middle School table tennis team; registered athlete since 2009.",
@@ -100,7 +100,7 @@
 
       "honors-title": "乒乓球荣誉",
       "athlete-badge": "乒乓球国家一级运动员",
-      "athlete-career": "乒乓球国家一级运动员，运动生涯：2009 年 – 至今",
+      "athlete-career": "运动生涯：2009 年 – 至今",
 
       "honor-note":
         "曾任行知中学校乒乓球队队长；2009年至今为注册运动员。",
