@@ -19,7 +19,8 @@
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/wzj1027)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/wzj1027/ecnu-wzj.github.io)",
       "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote set-url origin https://github.com/shuaige1027/ecnu-wzj.github.io.git)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/shuaige1027)"
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/shuaige1027)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote remove origin)"
     ]
   }
 }
