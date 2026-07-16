@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open /Users/zaijianhuiyuanai/Github-Mainpage/index.html)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage status)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage init)",
+      "Bash(git add *)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage branch -m main)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage commit -m ' *)",
+      "Bash(gh repo *)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote add origin https://github.com/ecnu-wzj/ecnu-wzj.github.io.git)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage push -u origin main)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote -v)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/ecnu-wzj/ecnu-wzj.github.io)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/ecnu-wzj)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage config --get-regexp credential)",
+      "Bash(git config *)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote set-url origin https://github.com/wzj1027/ecnu-wzj.github.io.git)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/wzj1027)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/wzj1027/ecnu-wzj.github.io)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote set-url origin https://github.com/shuaige1027/ecnu-wzj.github.io.git)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/shuaige1027)"
+    ]
+  }
+}
