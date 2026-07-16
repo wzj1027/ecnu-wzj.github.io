@@ -161,7 +161,7 @@
       {
         year: "2019",
         title:
-          "Table Tennis Champions Tournament — Men's Team Champion",
+          "Shanghai Table Tennis Champions Tournament — Men's Team Champion",
       },
       {
         year: "2019",
@@ -188,7 +188,7 @@
       },
       {
         year: "2019",
-        title: "乒乓球冠军赛 — 男子团体第一名",
+        title: "上海市乒乓球冠军赛 — 男子团体第一名",
       },
       {
         year: "2019",
