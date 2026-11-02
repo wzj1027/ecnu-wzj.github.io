@@ -42,7 +42,7 @@
 
       "research-award": "Honors & Awards",
       "award-title": "National Scholarship",
-      "award-detail": "Awarded by the Ministry of Education of China · 2026",
+      "award-detail": "Awarded by the Ministry of Education of China",
 
       "honors-title": "Table Tennis Honors",
       "athlete-badge": "National First-Class Athlete",
@@ -104,7 +104,7 @@
 
       "research-award": "荣誉与奖励",
       "award-title": "国家奖学金",
-      "award-detail": "中华人民共和国教育部 · 2026 年",
+      "award-detail": "中华人民共和国教育部颁发",
 
       "honors-title": "乒乓球荣誉",
       "athlete-badge": "乒乓球国家一级运动员",

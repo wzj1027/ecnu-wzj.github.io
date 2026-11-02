@@ -410,15 +410,16 @@ a:hover {
 
 .award-badge {
   flex-shrink: 0;
-  width: 36px;
   height: 36px;
+  padding: 0 12px;
   background: var(--accent);
   color: #fff;
-  font-size: 1rem;
+  font-weight: 700;
+  font-size: 0.78rem;
   border-radius: 4px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  white-space: nowrap;
 }
 
 .award-title {
@@ -429,8 +430,9 @@ a:hover {
 }
 
 .award-detail {
-  font-size: 0.88rem;
+  font-size: 0.85rem;
   color: var(--text-lighter);
+  font-style: italic;
 }
 
 /* ====================== Table Tennis Photos ====================== */
