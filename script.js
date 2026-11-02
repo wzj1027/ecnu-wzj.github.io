@@ -40,6 +40,10 @@
       "research-ip": "Software Copyright",
       "ip-title": "基于大模型的用户需求自动补全软件",
 
+      "research-award": "Honors & Awards",
+      "award-title": "National Scholarship",
+      "award-detail": "Awarded by the Ministry of Education of China · 2026",
+
       "honors-title": "Table Tennis Honors",
       "athlete-badge": "National First-Class Athlete",
       "athlete-career":
@@ -97,6 +101,10 @@
 
       "research-ip": "软件著作权",
       "ip-title": "基于大模型的用户需求自动补全软件",
+
+      "research-award": "荣誉与奖励",
+      "award-title": "国家奖学金",
+      "award-detail": "中华人民共和国教育部 · 2026 年",
 
       "honors-title": "乒乓球荣誉",
       "athlete-badge": "乒乓球国家一级运动员",

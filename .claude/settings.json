@@ -20,7 +20,12 @@
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/wzj1027/ecnu-wzj.github.io)",
       "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote set-url origin https://github.com/shuaige1027/ecnu-wzj.github.io.git)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/shuaige1027)",
-      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote remove origin)"
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage remote remove origin)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage add script.js)",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage commit -m \"fix: add Shanghai prefix to table tennis champions tournament\")",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage commit -m \"fix: remove team captain note from athlete honor entry\")",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage commit -m \"fix: correct Chinese name 金东明 to 靳东明\")",
+      "Bash(git -C /Users/zaijianhuiyuanai/Github-Mainpage commit -m \"fix: remove duplicate athlete title in career subtitle\")"
     ]
   }
 }

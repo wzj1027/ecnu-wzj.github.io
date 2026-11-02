@@ -298,13 +298,15 @@ a:hover {
 /* ====================== Research ====================== */
 .research-area,
 .research-pub,
-.research-ip {
+.research-ip,
+.research-award {
   margin-bottom: 36px;
 }
 
 .research-area h3,
 .research-pub h3,
-.research-ip h3 {
+.research-ip h3,
+.research-award h3 {
   font-size: 1.05rem;
   font-weight: 650;
   color: var(--primary);
@@ -391,6 +393,42 @@ a:hover {
 }
 
 .ip-detail {
+  font-size: 0.88rem;
+  color: var(--text-lighter);
+}
+
+/* Honors & Awards */
+.award-item {
+  display: flex;
+  gap: 16px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--card-shadow);
+}
+
+.award-badge {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.award-title {
+  font-weight: 650;
+  font-size: 1rem;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.award-detail {
   font-size: 0.88rem;
   color: var(--text-lighter);
 }
